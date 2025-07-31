@@ -1,9 +1,14 @@
 <h1 align="center">Solyd CTF Resolved 🛡️</h1>
 
 <p align="center">
+  <strong>🏅 Ranked 13th overall</strong> in the official Solyd Offensive Security CTF.
+</p>
+
+<p align="center">
   A repository containing write-ups and solutions for CTF challenges from <strong>Solyd Offensive Security</strong>.  
   Focused on <em>pentesting</em>, <em>reverse engineering</em>, <em>exploitation</em>, and <em>vulnerability analysis</em>.
 </p>
+
 
 ---
 
