@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JuliarrCosta/Solyd-CTF-Resolved/main/banner.png" alt="Solyd CTF Resolved Banner" />
-</p>
-
 <h1 align="center">Solyd CTF Resolved 🛡️</h1>
 
 <p align="center">
